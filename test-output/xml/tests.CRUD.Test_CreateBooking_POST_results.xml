@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/deept/IdeaProjects/APIAutomationFramework"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.038">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test001"
+                time="0.038"
+                classname="tests.CRUD.Test_CreateBooking_POST">
+            </testcase>
+</testsuite>
